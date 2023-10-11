@@ -1,4 +1,4 @@
-# BittergourdClassification
+# Bittergourd Classification
 Deep learning based classification of bitter gourd into various stages
 
 
